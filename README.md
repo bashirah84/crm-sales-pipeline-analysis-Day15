@@ -116,3 +116,35 @@ This table is linked to the **Lead Acquisition Date** in the sales pipeline tabl
 ## 🔗 Table Relationships
 
 A **one-to-many relationship** was created between the **Calendar table** and the **Sales Pipeline table**.
+
+## 📈 Dashboard 1  
+### CRM Sales Pipeline Overview — How Efficient Is Our Sales Funnel?
+
+![CRM Sales Dashboard](crm-dashboard1.png)
+
+### KPIs
+
+- **Total Revenue:** $8.28M  
+- **Closed Deals Rate:** 11.80%  
+- **Sales Drop-Off:** 348 Leads  
+- **Average Time to Close:** 63.17 Days  
+
+---
+
+### Key Insights
+
+- **Laura Thompson** is the top-performing sales agent, generating **over $2M in revenue**, followed by **Michael Brown** and **Jessica Martinez**.
+
+- **Italy** generates the highest number of active leads (**620 leads**), followed by **France (422)** and **Germany (420)**.
+
+- Most leads fall within the **Small (11–200 employees)** and **Medium (201–500 employees)** company segments, suggesting that mid-sized businesses form the core customer base.
+
+- Lead acquisition shows **stable monthly performance**, with **March recording the highest number of captured leads (647)**.
+
+- The **largest drop-off in the sales pipeline occurs at the Opportunity stage**, where **37 potential deals fail to progress**, highlighting a critical point of customer disengagement.
+
+---
+
+### Strategic Implication
+
+The dashboard reveals that while lead generation remains consistent, the **sales pipeline experiences significant drop-offs at early qualification stages**. Improving **lead nurturing, qualification processes, and follow-up strategies** at the Opportunity stage could significantly increase conversion rates and overall revenue performance.
