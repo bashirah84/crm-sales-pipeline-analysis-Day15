@@ -148,3 +148,39 @@ A **one-to-many relationship** was created between the **Calendar table** and th
 ### Strategic Implication
 
 The dashboard reveals that while lead generation remains consistent, the **sales pipeline experiences significant drop-offs at early qualification stages**. Improving **lead nurturing, qualification processes, and follow-up strategies** at the Opportunity stage could significantly increase conversion rates and overall revenue performance.
+
+
+
+## 📈 Dashboard 2  
+### Sales Pipeline Analysis — Where Do Deals Progress or Drop?
+
+![Sales Pipeline Dashboard](Salesphone2.png)
+
+### KPIs
+
+- **Total Revenue:** $8.28M  
+- **Closed Deals Rate:** 11.80%  
+- **Pipeline Drop-Off:** 348 Leads  
+- **Average Time to Close:** 63.17 Days  
+
+---
+
+### Key Insights
+
+- The **Opportunity stage contains the highest number of leads (867)**, indicating strong initial interest but also highlighting the need for effective qualification processes.
+
+- The number of leads **gradually declines as deals progress through the pipeline**, with **Qualified (567)** and **Sales Accepted (528)** representing key transition points.
+
+- A significant number of leads **fail to progress beyond early engagement stages**, suggesting potential inefficiencies in nurturing or follow-up.
+
+- **Laura Thompson remains the strongest performer**, reaching a peak performance score of **749**, significantly ahead of other sales agents.
+
+- Product sales distribution shows that **Services contribute the largest share (40%)**, followed by **SaaS solutions (38%)** and **Custom solutions (22%)**, indicating that service-based offerings dominate revenue generation.
+
+---
+
+### Strategic Implication
+
+The sales pipeline reveals **strong lead inflow but moderate conversion efficiency**. Improving **lead qualification, proposal follow-ups, and early-stage engagement strategies** could reduce pipeline leakage and increase deal closures.
+
+Strengthening support for **high-performing sales agents and expanding high-demand service offerings** may further improve revenue growth and sales efficiency.
