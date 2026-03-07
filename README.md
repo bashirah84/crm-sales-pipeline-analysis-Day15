@@ -184,3 +184,41 @@ The dashboard reveals that while lead generation remains consistent, the **sales
 The sales pipeline reveals **strong lead inflow but moderate conversion efficiency**. Improving **lead qualification, proposal follow-ups, and early-stage engagement strategies** could reduce pipeline leakage and increase deal closures.
 
 Strengthening support for **high-performing sales agents and expanding high-demand service offerings** may further improve revenue growth and sales efficiency.
+
+
+## 📈 Dashboard 3  
+### Market & Customer Insight — Where Are Our Strongest Markets and Customers?
+
+![Market & Customer Insight Dashboard](Salesphone3.png)
+
+### KPIs
+
+- **Total Revenue:** $8.28M  
+- **Closed Deals Rate:** 11.80%  
+- **Pipeline Drop-Off:** 348 Leads  
+- **Average Time to Close:** 63.17 Days  
+
+---
+
+### Key Insights
+
+- **Italy leads the market with 620 active opportunities**, followed by **France (422)** and **Germany (420)**, indicating that the majority of sales activity is concentrated in a few key regions.
+
+- **Transportation & Logistics is the most active industry with 528 deals**, followed by **Banking & Finance (404)** and **IT & IT Services (387)**, highlighting strong demand from operational and technology-driven sectors.
+
+- Larger organizations contribute significantly to revenue generation, particularly **Enterprise (1001+) and Large (501–1000) companies**, suggesting that high-value deals are concentrated among bigger clients.
+
+- **Laura Thompson has the highest conversion rate (93%)**, significantly outperforming other sales agents, demonstrating exceptional efficiency in converting leads into customers.
+
+- Product distribution shows that **Services and SaaS solutions dominate sales contributions**, while **Custom solutions account for a smaller portion of total deal value**, indicating a stronger demand for scalable service offerings.
+
+---
+
+### Strategic Implication
+
+The analysis shows that **sales performance is strongly influenced by specific geographic markets and industries**, particularly within **European regions and logistics or finance sectors**. Focusing sales resources on these high-performing markets could significantly increase revenue potential.
+
+ leveraging the strategies of **high-performing sales representatives** and prioritizing **enterprise-level clients and service-based offerings** may further improve conversion rates and overall sales growth.
+
+
+ 
